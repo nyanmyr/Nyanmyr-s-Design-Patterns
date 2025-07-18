@@ -1,30 +1,32 @@
-# Nyanmyr-s-Design-Patterns
-
-I use this place as a repository for the design patterns I have done.
-
 <html>
-
   <h1>
-      LIST OF COMPLETED DESIGN PATTERNS
+    Nyanmyr's Design Patterns
   </h1>
+  <p>
+    I use this place as a repository for the design patterns I have done.
+  </p>
+
+  <h2>
+      COMPLETED DESIGN PATTERNS
+  </h2>
   <ol>
     <li>Factory</li>
     <li>Observer</li>
     <li>Decorator</li>
   </ol>
 
-  <h1>
-      LIST OF DESIGN PATTERNS UP-NEXT
-  </h1>
+  <h2>
+      UP-NEXT
+  </h2>
   <ol>
     <li>State</li>
     <li>Composite</li>
     <li>Builder</li>
   </ol>
   
-  <h1>
+  <h2>
     TABLE OF DESIGN PATTERNS
-  </h1>
+  </h2>
   <table>
       <tr>
         <th>Scope</th>
