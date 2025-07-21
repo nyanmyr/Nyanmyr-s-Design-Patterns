@@ -13,14 +13,15 @@
     <li>Factory</li>
     <li>Observer</li>
     <li>Decorator</li>
+    <li>State</li>
   </ol>
 
   <h2>
       UP-NEXT
   </h2>
   <ol>
-    <li>State</li>
-    <li>Composite</li>
+    <li>Command</li>
+    <li>Strategy</li>
     <li>Builder</li>
   </ol>
   
