@@ -15,6 +15,7 @@
     <li>Decorator</li>
     <li>State</li>
     <li>Composite</li>
+    <li>Strategy</li>
   </ol>
 
   <h2>
@@ -22,7 +23,6 @@
   </h2>
   <ol>
     <li>Command</li>
-    <li>Strategy</li>
     <li>Builder</li>
   </ol>
   
