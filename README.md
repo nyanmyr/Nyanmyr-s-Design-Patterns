@@ -14,6 +14,7 @@
     <li>Observer</li>
     <li>Decorator</li>
     <li>State</li>
+    <li>Composite</li>
   </ol>
 
   <h2>
