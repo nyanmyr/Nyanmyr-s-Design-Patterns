@@ -28,9 +28,15 @@
       <li>Concrete Products</li>
       <li>Factory</li>
     </ul>
-    <hr>
   </body>
 </html>
+
+## UML Diagram
+
+Inline-style: 
+![alt text](FactoryUML.jpg "FactoryUML")
+
+---
 
 Product Interface - The class interface that the factory is responsible for creating.
 ```java
