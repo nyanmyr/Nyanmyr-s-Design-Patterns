@@ -3,10 +3,18 @@
     Nyanmyr's Design Patterns
   </h1>
   <p>
-    This is a collection of design patterns I have implemented using Java.
-    The patterns are implemented as simply as I can intentionally so that I can use them as reference or as a refresher.
-    Thus all the classes are intentionally put into one source file to be readily seen.
-    <br>I am planning on making simple descriptions for each design pattern, along with including references where further reading may be done. But for now nothing of that sort has been implemented.
+    This project is a personal collection of implementations of the Gang of Four (GoF) design patterns using Java.
+    Each pattern is implemented as simply as possible, with the intention of serving as a reference or refresher.
+    <br>
+    <br><i>NOTE: For clarity and ease of review, all classes are intentionally placed within a single source file.</i>
+    <br>
+    <br> I started this project to serve as a learning experience. As a novice Java programmer, I expect to make unintentional mistakes.
+    If you are willing to support my learning journey, I would greatly appreciate any feedback or corrections you can provide.
+    <br>
+    <br>To anyone exploring this repository, I assume a basic understanding of Java fundamentals—particularly
+    the object-oriented paradigm, upon which these design patterns are heavily based.
+    <br>
+    <br><i>The references used in the development of this project are listed below.</i>
   </p>
 
   <h2>
@@ -113,4 +121,24 @@
         </td>
       </tr>
   </table> 
+  <h1>
+    References
+  </h1>
+  <ul>
+    <li>
+      <a href="https://github.com/iluwatar/java-design-patterns">Iluwatar's Java Design Patterns</a>
+    </li>
+    <li>
+      <a href="https://en.wikipedia.org/">Wikipedia</a>
+    </li>
+    <li>
+      <a href="https://refactoring.guru/">Refactoring Guru</a>
+    </li>
+    <li>
+      Musch, O. (n.d.). Design patterns with Java: An introduction. Independently published.
+    </li>
+    <li>
+      Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). Design patterns: Elements of reusable object-oriented software. Addison-Wesley
+    </li>
+  </ul>
 </html>
