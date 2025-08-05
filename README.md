@@ -31,12 +31,11 @@
         <td>Class</td>
         <td>• Factory</td>
         <td></td>
-        <td>
-        </td>
+        <td></td>
       </tr>
       <tr>
         <td>Object</td>
-        <td></td>
+        <td>• Builder</td>
         <td>
           • Composite
           <br>• Decorator
@@ -61,15 +60,16 @@
     <li>Composite</li>
     <li>Strategy</li>
     <li>Command</li>
+    <li>Builder</li>
   </ol>
 
   <h2>
       UP-NEXT
   </h2>
   <ol>
-    <li>Builder</li>
     <li>Facade</li>
     <li>Memento</li>
+    <li>Singleton</li>
   </ol>
   
   <h2>
