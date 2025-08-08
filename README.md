@@ -43,6 +43,7 @@
         </td>
         <td>
           • Command
+          <br>• Memento
           <br>• Observer
           <br>• State
           <br>• Strategy
@@ -62,16 +63,17 @@
     <li>Strategy</li>
     <li>Command</li>
     <li>Builder</li>
-      <li>Facade</li>
+    <li>Facade</li>
+    <li>Memento</li>
   </ol>
 
   <h2>
       UP-NEXT
   </h2>
   <ol>
-    <li>Memento</li>
     <li>Singleton</li>
     <li>Proxy</li>
+    <li>Chain of Responsibility</li>
   </ol>
   
   <h2>
