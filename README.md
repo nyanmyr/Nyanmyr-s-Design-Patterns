@@ -35,7 +35,10 @@
       </tr>
       <tr>
         <td>Object</td>
-        <td>• Builder</td>
+        <td>
+          • Builder
+          <br>• Singleton
+        </td>
         <td>
           • Composite
           <br>• Decorator
@@ -54,8 +57,9 @@
   <h2>
       COMPLETED IN ORDER
   </h2>
+  <i>Design patterns with checkmarks have descriptions. Progress on the others is halted until I complete the rest of design patterns.</i>
   <ol>
-    <li>Factory</li>
+    <li>Factory ✔</li>
     <li>Observer</li>
     <li>Decorator</li>
     <li>State</li>
@@ -65,15 +69,16 @@
     <li>Builder</li>
     <li>Facade</li>
     <li>Memento</li>
+    <li>Singleton</li>
   </ol>
 
   <h2>
       UP-NEXT
   </h2>
   <ol>
-    <li>Singleton</li>
     <li>Proxy</li>
     <li>Chain of Responsibility</li>
+    <li>Prototype</li>
   </ol>
   
   <h2>
