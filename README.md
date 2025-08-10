@@ -43,6 +43,7 @@
           • Composite
           <br>• Decorator
           <br>• Facade
+          <br>• Proxy
         </td>
         <td>
           • Command
@@ -70,15 +71,16 @@
     <li>Facade</li>
     <li>Memento</li>
     <li>Singleton</li>
+    <li>Proxy</li>
   </ol>
 
   <h2>
       UP-NEXT
   </h2>
   <ol>
-    <li>Proxy</li>
     <li>Chain of Responsibility</li>
     <li>Prototype</li>
+    <li>Adapter</li>
   </ol>
   
   <h2>
