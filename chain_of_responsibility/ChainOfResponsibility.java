@@ -1,15 +1,5 @@
 package chain_of_responsibility;
 
-// request
-class ResourceRequest {
-
-    String resourceType;
-
-    ResourceRequest(String resourceType) {
-        this.resourceType = resourceType;
-    }
-}
-
 // handler
 class ResourceCollector {
 
@@ -75,3 +65,4 @@ public class ChainOfResponsibility {
         castleBuilder.requestResource("magic stones");
     }
 }
+
