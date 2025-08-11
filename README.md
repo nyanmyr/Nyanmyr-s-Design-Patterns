@@ -6,7 +6,8 @@
     This project is a personal collection of implementations of the Gang of Four (GoF) design patterns using Java.
     Each pattern is implemented as simply as possible, with the intention of serving as a reference or refresher.
     <br>
-    <br><i>NOTE: For clarity and ease of review, all classes are intentionally placed within a single source file.</i>
+    <br><i>NOTE: For clarity and ease of review, all classes are intentionally placed within a single source file. 
+    <br>Additionally, the snippets are not meant to be copy pasted as is, but the main idea behind them is to for the architecture of the design pattern to be reused.</i>
     <br>
     <br> I started this project to serve as a learning experience. As a novice Java programmer, I expect to make unintentional mistakes.
     If you are willing to support my learning journey, I would greatly appreciate any feedback or corrections you can provide.
@@ -46,7 +47,8 @@
           <br>• Proxy
         </td>
         <td>
-          • Command
+          • Chain of Responsibility
+          <br>• Command
           <br>• Memento
           <br>• Observer
           <br>• State
@@ -72,15 +74,16 @@
     <li>Memento</li>
     <li>Singleton</li>
     <li>Proxy</li>
+    <li>Chain of Responsibility</li>
   </ol>
 
   <h2>
       UP-NEXT
   </h2>
   <ol>
-    <li>Chain of Responsibility</li>
     <li>Prototype</li>
     <li>Adapter</li>
+    <li>Template Method</li>
   </ol>
   
   <h2>
