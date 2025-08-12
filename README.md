@@ -38,6 +38,7 @@
         <td>Object</td>
         <td>
           • Builder
+          <br>• Prototype
           <br>• Singleton
         </td>
         <td>
@@ -75,15 +76,16 @@
     <li>Singleton</li>
     <li>Proxy</li>
     <li>Chain of Responsibility</li>
+    <li>Prototype</li>
   </ol>
 
   <h2>
       UP-NEXT
   </h2>
   <ol>
-    <li>Prototype</li>
     <li>Adapter</li>
     <li>Template Method</li>
+    <li>Abstract Factory</li>
   </ol>
   
   <h2>
