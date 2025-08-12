@@ -31,7 +31,7 @@
       <tr>
         <td>Class</td>
         <td>• Factory</td>
-        <td></td>
+        <td>• Adapter</td>
         <td></td>
       </tr>
       <tr>
@@ -42,7 +42,8 @@
           <br>• Singleton
         </td>
         <td>
-          • Composite
+          • Adapter
+          <br>• Composite
           <br>• Decorator
           <br>• Facade
           <br>• Proxy
@@ -77,15 +78,16 @@
     <li>Proxy</li>
     <li>Chain of Responsibility</li>
     <li>Prototype</li>
+    <li>Adapter</li>
   </ol>
 
   <h2>
       UP-NEXT
   </h2>
   <ol>
-    <li>Adapter</li>
     <li>Template Method</li>
     <li>Abstract Factory</li>
+    <li>Flyweight</li>
   </ol>
   
   <h2>
