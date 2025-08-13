@@ -32,7 +32,7 @@
         <td>Class</td>
         <td>• Factory</td>
         <td>• Adapter</td>
-        <td></td>
+        <td>• Template Method</td>
       </tr>
       <tr>
         <td>Object</td>
@@ -79,15 +79,16 @@
     <li>Chain of Responsibility</li>
     <li>Prototype</li>
     <li>Adapter</li>
+    <li>Template Method</li>
   </ol>
 
   <h2>
       UP-NEXT
   </h2>
   <ol>
-    <li>Template Method</li>
     <li>Abstract Factory</li>
     <li>Flyweight</li>
+    <li>Visitor</li>
   </ol>
   
   <h2>
