@@ -37,7 +37,8 @@
       <tr>
         <td>Object</td>
         <td>
-          • Builder
+          • Abstract Factory
+          <br>• Builder
           <br>• Prototype
           <br>• Singleton
         </td>
@@ -80,15 +81,16 @@
     <li>Prototype</li>
     <li>Adapter</li>
     <li>Template Method</li>
+    <li>Abstract Factory</li>
   </ol>
 
   <h2>
       UP-NEXT
   </h2>
   <ol>
-    <li>Abstract Factory</li>
     <li>Flyweight</li>
     <li>Visitor</li>
+    <li>Bridge</li>
   </ol>
   
   <h2>
