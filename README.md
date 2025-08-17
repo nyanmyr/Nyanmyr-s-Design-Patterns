@@ -48,6 +48,7 @@
           <br>• Decorator
           <br>• Facade
           <br>• Proxy
+          <br>• Flyweight
         </td>
         <td>
           • Chain of Responsibility
@@ -82,15 +83,16 @@
     <li>Adapter</li>
     <li>Template Method</li>
     <li>Abstract Factory</li>
+    <li>Flyweight</li>
   </ol>
 
   <h2>
       UP-NEXT
   </h2>
   <ol>
-    <li>Flyweight</li>
     <li>Visitor</li>
     <li>Bridge</li>
+    <li>Interpreter</li>
   </ol>
   
   <h2>
