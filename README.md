@@ -57,6 +57,7 @@
           <br>• Observer
           <br>• State
           <br>• Strategy
+          <br>• Visitor
         </td>
       </tr>
   </table>
@@ -84,15 +85,16 @@
     <li>Template Method</li>
     <li>Abstract Factory</li>
     <li>Flyweight</li>
+    <li>Visitor</li>
   </ol>
 
   <h2>
       UP-NEXT
   </h2>
   <ol>
-    <li>Visitor</li>
     <li>Bridge</li>
     <li>Interpreter</li>
+    <li>Iterator</li>
   </ol>
   
   <h2>
