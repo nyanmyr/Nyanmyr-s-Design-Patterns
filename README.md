@@ -44,6 +44,7 @@
         </td>
         <td>
           • Adapter
+          <br>• Bridge
           <br>• Composite
           <br>• Decorator
           <br>• Facade
@@ -86,15 +87,16 @@
     <li>Abstract Factory</li>
     <li>Flyweight</li>
     <li>Visitor</li>
+    <li>Bridge</li>
   </ol>
 
   <h2>
       UP-NEXT
   </h2>
   <ol>
-    <li>Bridge</li>
     <li>Interpreter</li>
     <li>Iterator</li>
+    <li>Mediator</li>
   </ol>
   
   <h2>
