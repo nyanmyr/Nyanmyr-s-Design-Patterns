@@ -32,7 +32,10 @@
         <td>Class</td>
         <td>• Factory</td>
         <td>• Adapter</td>
-        <td>• Template Method</td>
+        <td>
+          • Interpreter
+          <br>• Template Method
+        </td>
       </tr>
       <tr>
         <td>Object</td>
@@ -88,13 +91,13 @@
     <li>Flyweight</li>
     <li>Visitor</li>
     <li>Bridge</li>
+    <li>Interpreter</li>
   </ol>
 
   <h2>
       UP-NEXT
   </h2>
   <ol>
-    <li>Interpreter</li>
     <li>Iterator</li>
     <li>Mediator</li>
   </ol>
